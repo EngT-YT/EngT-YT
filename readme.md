@@ -4,7 +4,7 @@ Welcome to the official GitHub organization for EngT.
 
 ## Connect with Us
 
--   **YouTube :** [YouTube Channel](https://www.youtube.com/yourchannel)
+-   **YouTube :** [YouTube Channel](https://www.youtube.com/@%E0%A4%87%E0%A4%8F%E0%A4%A8%E0%A4%9C%E0%A5%80%E0%A4%9F%E0%A5%80)
 -   **Facebook :** [Facebook Page](https://www.facebook.com/engtofficial/)
 -   **LinkedIn :** [LinkedIn Page](https://www.linkedin.com/company/engtofficial)
 
